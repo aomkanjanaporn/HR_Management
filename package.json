@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "datatables.net-bs4": "^1.10.19",
-        "moment": "^2.22.2",
+        "moment": "^2.29.4",
         "pc-bootstrap4-datetimepicker": "^4.17.50",
         "react-bootstrap-date-picker": "^5.1.0"
     }
